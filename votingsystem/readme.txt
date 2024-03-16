@@ -2,11 +2,11 @@
 
 2."TEXT EDITOR" VISUAL STUDO CODE OR SUBLIME TEXT 3 / ETC.
 
-3"voting management system"
+3"voting  system"
 
 4. Download the zip file/ download winrar
 
-5. Extract the file and copy "voting management system" folder
+5. Extract the file and copy "voting system" folder
 
 6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: for xampp/htdocs, 
 
@@ -21,4 +21,3 @@
 username  admin
 password  password
 
-Brought to you by: www.alphacodecamp.com.ng
